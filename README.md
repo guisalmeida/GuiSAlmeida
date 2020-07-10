@@ -1,8 +1,9 @@
 # Hi, I'm Guilherme Almeida 🧔
 - :man_technologist: I’m currently working on **Linx Impulse** as web designer internship
+- ⚙️ I use daily: `.js`, `.php`, `.html`, `.css`, `.scss`, `.svg`, `.psd`, `.ai`
 - :books: I’m currently studying Computer Science
 - 🌱 I’m currently learning about JS, ReactJs, Gatsby, Cypress...
-- 🤖 [guisalmeida.com](https://www.guisalmeida.com)
+- 🤖 My portfolio and blog [guisalmeida.com](https://www.guisalmeida.com)
 
 #
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guisalmeida/)](https://www.linkedin.com/in/guisalmeida/)
