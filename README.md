@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guisalmeida.dev@gmail.com)](mailto:guisalmeida.dev@gmail.com)
 
 
-- :office_worker: I’m currently working on **Linx Impulse** as web designer internship
+- :man_technologist: I’m currently working on **Linx Impulse** as web designer internship
 - :books: I’m currently studying Computer Science
 - 🌱 I’m currently learning about JS, ReactJs, Gatsby, Cypress...
 - 🤖 [guisalmeida.com](https://www.guisalmeida.com)
