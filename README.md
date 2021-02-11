@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme Almeida 🧔
 - :man_technologist: I’m currently working on **Linx Impulse** as web designer internship
-- ⚙️ I use daily: `.JS`, `.PHP`, `.HTML`, `.CSS`, `.SCSS`
+- ⚙️ I use daily: `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`
 - :books: I’m currently studying Computer Science
 - 🌱 I’m currently learning about IA with **Python**...
 - 🤖 My portfolio and blog [guisalmeida.com](https://www.guisalmeida.com)
