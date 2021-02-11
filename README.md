@@ -2,7 +2,7 @@
 - :man_technologist: I’m currently working on **Linx Impulse** as web designer internship
 - ⚙️ I use daily: `.JS`, `.PHP`, `.HTML`, `.CSS`, `.SCSS`
 - :books: I’m currently studying Computer Science
-- 🌱 I’m currently learning about POO in **JAVA** and data structures in **Python**...
+- 🌱 I’m currently learning about IA with **Python**...
 - 🤖 My portfolio and blog [guisalmeida.com](https://www.guisalmeida.com)
 
 #
