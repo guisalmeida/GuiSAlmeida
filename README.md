@@ -1,5 +1,5 @@
 # Hi, I'm Guilherme Almeida 🧔
-- :man_technologist: I’m currently working on **Linx Impulse** as web designer internship
+- :man_technologist: I’m currently working on **Linx Impulse** as developer internship
 - ⚙️ I use daily: `linux`, `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`
 - :books: I’m currently studying Computer Science
 - 🌱 I’m currently learning about IA with **Python** and web dev with **VueJS3**...
