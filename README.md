@@ -10,6 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GuiSAlmeida87)](https://twitter.com/GuiSAlmeida87)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guisalmeida.dev@gmail.com)](mailto:guisalmeida.dev@gmail.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/guisalmeida)](https://www.behance.net/guisalmeida)
+![](https://komarev.com/ghpvc/?username=guisalmeida)
 
 
 <!--
