@@ -1,7 +1,7 @@
 # Hi, I'm Guilherme Almeida 🧔
 - :man_technologist: I’m currently working on **[Linx](https://github.com/chaordic)** as full-stack developer JR
 - ⚙️ I use daily: `linux`, `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`
-- :books: I’m currently studying Computer Science
+- :books: I’m currently studying **Computer Science**
 - 🌱 I’m currently learning about IA with **Python** and web dev with **VueJS3**...
 - 🤖 My portfolio and blog [guisalmeida.com](https://www.guisalmeida.com)
 
