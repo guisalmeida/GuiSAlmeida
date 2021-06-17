@@ -2,7 +2,7 @@
 - :man_technologist: I’m currently working on **[Linx](https://github.com/chaordic)** as full-stack developer JR
 - ⚙️ I use daily: `linux`, `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`
 - :books: I’m currently studying **Computer Science**
-- 🌱 I’m currently learning about IA with **Python** and web dev with **VueJS3**...
+- 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **VueJS**.
 - 🤖 My portfolio and blog [guisalmeida.com](https://www.guisalmeida.com)
 
 #
