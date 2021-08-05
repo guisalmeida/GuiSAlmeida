@@ -7,7 +7,7 @@ Seeking evolution in my career and new challenges, I've been dedicating myself t
 - ⚙️ I use daily: `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`, `linux`, `Docker`, `CircleCI`
 - :books: I’m currently studying **Bachelor of Computer Science**
 - 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **VueJS**
-- 🤖 My personal website [guisalmeida.com](https://www.guisalmeida.com)
+- 🤖 My personal website **[guisalmeida.com](https://www.guisalmeida.com)**
 
 #
 [![Blog Badge](https://img.shields.io/badge/Blog-guisalmeida.com-black)](https://guisalmeida.com/blog)
