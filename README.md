@@ -3,9 +3,10 @@
 - ⚙️ I use daily: `linux`, `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`
 - :books: I’m currently studying **Computer Science**
 - 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **VueJS**.
-- 🤖 My portfolio and blog [guisalmeida.com](https://www.guisalmeida.com)
+- 🤖 My personal website [guisalmeida.com](https://www.guisalmeida.com)
 
 #
+[![Blog Badge](https://img.shields.io/badge/Blog-guisalmeida.com-black)](https://guisalmeida.com/blog)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guisalmeida/)](https://www.linkedin.com/in/guisalmeida/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GuiSAlmeida87)](https://twitter.com/GuiSAlmeida87)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guisalmeida.dev@gmail.com)](mailto:guisalmeida.dev@gmail.com)
