@@ -4,7 +4,7 @@ Seeking evolution in my career and new challenges, I've been dedicating myself t
 ### **More details:**
 
 - :man_technologist: I’m currently working on **[Linx](https://github.com/chaordic)** as **Full Stack Developer**
-- ⚙️ I use daily: `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`, `linux`, `Docker`, `CircleCI`
+- ⚙️ I use daily: `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`, `linux`, `Docker`, `CircleCI`, `AWS`
 - :books: I’m currently studying **Bachelor of Computer Science**
 - 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **VueJS**
 - 🤖 My personal website **[guisalmeida.com](https://www.guisalmeida.com)**
