@@ -1,9 +1,9 @@
 # Hi, I'm Guilherme Almeida 🧔
-Currently working as a fullstack developer, I consider myself a creative and innovative professional.
+Currently working as a Software engineer, I consider myself a creative and innovative professional.
 Seeking evolution in my career and new challenges, I've been dedicating myself to programming, web development and the Bachelor of Computer Science Degree, aiming to become a more capable professional to work with the demands that the technology market offers.  
 ### **More details:**
 
-- :man_technologist: I’m currently working on **[Linx](https://github.com/chaordic)** as **Full Stack Developer**
+- :man_technologist: I’m currently working on **[ArcTouch](https://arctouch.com/)** as **Software Engineer**
 - ⚙️ I use daily: `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`, `linux`, `Docker`, `CircleCI`, `AWS`
 - :books: I’m currently studying **Bachelor’s Degree in Computer Science**
 - 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **VueJS**
