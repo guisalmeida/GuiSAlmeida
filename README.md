@@ -1,12 +1,18 @@
 # Hi, I'm Guilherme Almeida 🧔
-Currently working as a Software engineer, I consider myself a creative and innovative professional.
-Seeking evolution in my career and new challenges, I've been dedicating myself to programming, web development and the Bachelor of Computer Science Degree, aiming to become a more capable professional to work with the demands that the technology market offers.  
+I consider myself a creative and innovative professional. 
+
+I am always looking for evolution and new challenges in my career.
+I have been dedicating myself to the web, mobile development,
+and a Bachelor’s Degree in Computer Science. 
+
+I am constantly improving my professional side with the l
+
 ### **More details:**
 
 - :man_technologist: I’m currently working on **[ArcTouch](https://arctouch.com/)** as **Software Engineer**
-- ⚙️ I use daily: `typescript`, `react`, `node`.
+- ⚙️ Specialties: `Typescript`, `VueJs`, `ReactJS`, `React Native`, `NodeJS`, `Python`, `MongoDB`, `Postgres`, `Html5`, `CSS3`, `SASS`, `Design`.
 - :books: I’m currently studying **Bachelor’s Degree in Computer Science**
-- 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **React**
+- 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **React with typescript**
 - 🤖 My personal website **[guisalmeida.com](https://www.guisalmeida.com)**
 
 #
