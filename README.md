@@ -4,9 +4,9 @@ Seeking evolution in my career and new challenges, I've been dedicating myself t
 ### **More details:**
 
 - :man_technologist: I’m currently working on **[ArcTouch](https://arctouch.com/)** as **Software Engineer**
-- ⚙️ I use daily: `.JS`, `.VUE`, `.PY`, `.HTML`, `.SCSS`, `linux`, `Docker`, `CircleCI`, `AWS`
+- ⚙️ I use daily: `typescript`, `react`, `node`.
 - :books: I’m currently studying **Bachelor’s Degree in Computer Science**
-- 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **VueJS**
+- 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **React**
 - 🤖 My personal website **[guisalmeida.com](https://www.guisalmeida.com)**
 
 #
