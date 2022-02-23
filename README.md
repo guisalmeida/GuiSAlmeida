@@ -1,11 +1,10 @@
 # Hi, I'm Guilherme Almeida 🧔
 I consider myself a creative and innovative professional. 
 
-I am always looking for evolution and new challenges in my career.
-I have been dedicating myself to the web, mobile development,
-and a Bachelor’s Degree in Computer Science. 
+I am always looking for evolution and new challenges in my career. I have been dedicating myself to the web, mobile development, and a Bachelor’s Degree in Computer Science. 
 
-I am constantly improving my professional side with the l
+I am constantly improving my professional side with the latest market technologies.
+
 
 ### **More details:**
 
