@@ -1,4 +1,4 @@
-# Hi, I'm Guilherme Almeida 🧔
+# 🧔 Hi, I'm Guilherme Almeida
 I'm a Full Stack developer, graduated in Computer Science (2022), and +4 years of experience in software development. I worked on several projects, primarily in web development and mainly using Javascript, and Python. Responsible for creating very understandable and functional code.
 
 I am passionate about learning new technologies and challenging jobs, sharing knowledge, and teamwork.
