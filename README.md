@@ -3,13 +3,24 @@ I'm a Full Stack developer, graduated in Computer Science (2022), and +4 years o
 
 I am passionate about learning new technologies and challenging jobs, sharing knowledge, and teamwork.
 
-### **Skills:**
+### ⚙️**Skills:**
 As long as I started my career, I worked as a designer for about 6 years before becoming a developer, then I also have a big knowledge of some design patterns and tools. I have Experience in Web Development, Software Development, Graphic Design, and Agile Methodologies.
 
-I have worked with and studied different technologies, and below follow some that I feel comfortable to work:
+I have worked with and studied different technologies, and below follow some that I feel comfortable to work:  
+- Javascript (Typescript / ES6+ / NodeJS / Jquery)
+- Frameworks (ReactJS / VueJS)
+- HTML5 (SEO / Acessibility)
+- CSS3 (Sass / Styled Components)
+- Responsive Design (Mobile First)
+- Bundle tools (Webpack / Gulp)
+- TDD testing (Cypress / Mocha / Jest)
+- Git / Github / Gitlab
+- Python
+- Java
+- Database (PostgreSQL / GraphQL)
+- Agile Methodologies (Scrum / Kanban)
 
 ### **More details:**
-- ⚙️ Specialties: `Typescript`, `VueJs`, `ReactJS`, `React Native`, `NodeJS`, `Python`, `MongoDB`, `Postgres`, `Html5`, `CSS3`, `SASS`, `Design`.
 - 🎓 **Bachelor in Computer Science**
 - 🌱 I’m currently studying about **React with redux, stripe, firebase and typescript**
 - 🤖 My personal website **[guisalmeida.com](https://www.guisalmeida.com)**
