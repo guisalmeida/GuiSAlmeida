@@ -1,17 +1,17 @@
 # Hi, I'm Guilherme Almeida 🧔
-I consider myself a creative and innovative professional. 
+I'm a Full Stack developer, graduated in Computer Science (2022), and +4 years of experience in software development. I worked on several projects, primarily in web development and mainly using Javascript, and Python. Responsible for creating very understandable and functional code.
 
-I am always looking for evolution and new challenges in my career. I have been dedicating myself to the web, mobile development, and a Bachelor’s Degree in Computer Science. 
+I am passionate about learning new technologies and challenging jobs, sharing knowledge, and teamwork.
 
-I am constantly improving my professional side with the latest market technologies.
+### **Skills:**
+As long as I started my career, I worked as a designer for about 6 years before becoming a developer, then I also have a big knowledge of some design patterns and tools. I have Experience in Web Development, Software Development, Graphic Design, and Agile Methodologies.
 
+I have worked with and studied different technologies, and below follow some that I feel comfortable to work:
 
 ### **More details:**
-
-- :man_technologist: I’m currently working on **[ArcTouch](https://arctouch.com/)** as **Software Engineer**
 - ⚙️ Specialties: `Typescript`, `VueJs`, `ReactJS`, `React Native`, `NodeJS`, `Python`, `MongoDB`, `Postgres`, `Html5`, `CSS3`, `SASS`, `Design`.
-- :books: I’m currently studying **Bachelor’s Degree in Computer Science**
-- 🌱 I’m currently learning about tests with **Cypress**, programming with **Python** and web development with **React with typescript**
+- 🎓 **Bachelor in Computer Science**
+- 🌱 I’m currently studying about **React with redux, stripe, firebase and typescript**
 - 🤖 My personal website **[guisalmeida.com](https://www.guisalmeida.com)**
 
 #
@@ -20,6 +20,7 @@ I am constantly improving my professional side with the latest market technologi
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GuiSAlmeida87)](https://twitter.com/GuiSAlmeida87)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:guisalmeida.dev@gmail.com)](mailto:guisalmeida.dev@gmail.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?logo=behance&logoColor=white&link=https://www.behance.net/guisalmeida)](https://www.behance.net/guisalmeida)
+<!-- [![CV](https://img.shields.io/badge/CV-ffffff?style=flat&logo=googledrive&logoColor=black&link=https://drive.google.com/file/d/1Gg8-LmUmf5c6_q8ch50XS9Vy4jUrd4v2/view)](https://drive.google.com/file/d/1Gg8-LmUmf5c6_q8ch50XS9Vy4jUrd4v2/view) -->
 
 
 <!--
