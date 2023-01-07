@@ -1,7 +1,7 @@
-# 🧔 Hi, I'm Guilherme Almeida
-I'm a Full Stack developer, graduated in Computer Science (2022), and +4 years of experience in software development. I worked on several projects, primarily in web development and mainly using Javascript, and Python. Responsible for creating very understandable and functional code.
+# 🧔 Hi, I'm Guilherme Almeida  
+I'm a Software Engineer focusing on Front End Development, graduated with a Bachelor's of Computer Science (2022), and +4 years of experience in software development. I worked on several projects, primarily in web development and mainly using Javascript, nodeJS, and Python. Responsible for creating very understandable and functional code.
 
-I am passionate about learning new technologies and challenging jobs, sharing knowledge, and teamwork.
+I'm passionate about learning new technologies and challenging jobs, sharing knowledge, and teamwork.
 
 ### ⚙️**Skills:**
 As long as I started my career, I worked as a designer for about 6 years before becoming a developer, then I also have a big knowledge of some design patterns and tools. I have Experience in Web Development, Software Development, Graphic Design, and Agile Methodologies.
