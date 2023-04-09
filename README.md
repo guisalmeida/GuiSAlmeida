@@ -6,7 +6,7 @@ I'm passionate about learning new technologies and challenging jobs, sharing kno
 ### ⚙️**Skills:**
 As long as I started my career, I worked as a designer for about 6 years before becoming a developer, then I also have a big knowledge of some design patterns and tools. I have Experience in Web Development, Software Development, Graphic Design, and Agile Methodologies.
 
-I have worked with and studied different technologies, and below follow some that I feel comfortable to work:  
+I have been working with and studying different technologies, and below follow some that I feel comfortable to work:  
 - Javascript (Typescript / ES6+ / NodeJS / Jquery)
 - Frameworks (ReactJS / VueJS)
 - HTML5 (SEO / Acessibility)
