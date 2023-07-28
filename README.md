@@ -1,28 +1,27 @@
 # 🧔 Hi, I'm Guilherme Almeida  
-I'm a Software Engineer focusing on Web Development, graduated with a Bachelor's of Computer Science (2022), and +4 years of experience in software development. I worked on several projects, primarily in web development and mainly using Javascript, nodeJS, and Python. Responsible for creating very understandable and functional code.
+I'm a Software Engineer focusing on Web Development with 4+ years of experience in software development. I worked on several projects, primarily in web development and mainly using Javascript, nodeJS, and Python. Responsible for creating very understandable and functional code.
 
 I'm passionate about learning new technologies and challenging jobs, sharing knowledge, and teamwork.
 
 ### ⚙️**Skills:**
 As long as I started my career, I worked as a designer for about 6 years before becoming a developer, then I also have a big knowledge of some design patterns and tools. I have Experience in Web Development, Software Development, Graphic Design, and Agile Methodologies.
 
-I have been working with and studying different technologies, and below follow some that I feel comfortable to work:  
+I have been working with and studying different technologies, and below are some that I feel comfortable to work:  
 - Javascript (Typescript / ES6+ / NodeJS / Jquery)
 - Frameworks (ReactJS / VueJS)
-- HTML5 (SEO / Acessibility)
+- HTML5 (SEO / Accessibility)
 - CSS3 (Sass / Styled Components)
 - Responsive Design (Mobile First)
 - Bundle tools (Webpack / Gulp)
 - TDD testing (Cypress / Mocha / Jest)
 - Git / Github / Gitlab
-- Python
+- Python (Flask)
 - Java
 - Database (PostgreSQL / GraphQL)
 - Agile Methodologies (Scrum / Kanban)
 
 ### **More details:**
 - 🎓 **Bachelor in Computer Science**
-- 🌱 I’m currently studying about **React with redux, stripe, firebase and typescript**
 - 🤖 My personal website **[guisalmeida.com](https://www.guisalmeida.com)**
 
 #
