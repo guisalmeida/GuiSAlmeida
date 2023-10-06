@@ -1,12 +1,12 @@
 # 🧔 Hi, I'm Guilherme Almeida  
-I'm a Software Engineer focusing on Web Development with 4+ years of experience in software development. I worked on several projects, primarily in web development and mainly using Javascript, nodeJS, and Python. Responsible for creating very understandable and functional code.
+I'm a Software Engineer focusing on Web Development with 4+ years of experience in software development. I worked on several projects, primarily in web development, mainly using Javascript, nodeJS, and Python. Responsible for creating very understandable and functional code.
 
 I'm passionate about learning new technologies and challenging jobs, sharing knowledge, and teamwork.
 
 ### ⚙️**Skills:**
-As long as I started my career, I worked as a designer for about 6 years before becoming a developer, then I also have a big knowledge of some design patterns and tools. I have Experience in Web Development, Software Development, Graphic Design, and Agile Methodologies.
+As long as I started my career, I worked as a designer for about 6 years before becoming a developer. I also have extensive knowledge of some design patterns and tools. I have Experience in Web Development, Software Development, Graphic Design, and Agile Methodologies.
 
-I have been working with and studying different technologies, and below are some that I feel comfortable to work:  
+I have been working with and studying different technologies, and below are some that I feel comfortable working with:  
 - Javascript (Typescript / ES6+ / NodeJS / Jquery)
 - Frameworks (ReactJS / VueJS)
 - HTML5 (SEO / Accessibility)
@@ -20,9 +20,9 @@ I have been working with and studying different technologies, and below are some
 - Database (PostgreSQL / GraphQL)
 - Agile Methodologies (Scrum / Kanban)
 
-### **More details:**
-- 🎓 **Bachelor in Computer Science**
-- 🤖 My personal website **[guisalmeida.com](https://www.guisalmeida.com)**
+### 🎓**Qualifications:**
+-  B.Sc. Computer Science
+
 
 #
 [![Blog Badge](https://img.shields.io/badge/Blog-guisalmeida.com-black)](https://guisalmeida.com/blog)
