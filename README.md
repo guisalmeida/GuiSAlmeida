@@ -12,9 +12,8 @@ I have been working with and studying different technologies, and below are some
 - HTML5 (SEO / Accessibility)
 - CSS3 (Sass / Styled Components)
 - Responsive Design (Mobile First)
-- Bundle tools (Webpack / Gulp)
-- TDD testing (Cypress / Mocha / Jest)
-- Git / Github / Gitlab
+- Automation testing (Cypress / Mocha / Jest)
+- Control Versioning (Git / Github / Gitlab)
 - Python (Flask)
 - Java
 - Database (PostgreSQL / GraphQL)
