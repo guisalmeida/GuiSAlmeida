@@ -8,8 +8,8 @@ I've immersed myself in exploring and mastering various technologies, and I'm co
 - **Languages**: Javascript, Typescript, Python, Java, SQL;
 - **Frameworks**: React.js, Vue.js;
 - **Web Development**: HTML5, CSS3, SEO, Accessibility, Sass, Styled Components, Bootstrap;
-- **State Management**: Context API, Redux, Vuex, Apollo Client (Graphql);
 - **Automation testing**: Cypress, Mocha, Jest, Istanbul;
+- **State Management**: Context API, Redux, Vuex, Apollo Client (Graphql);
 - **Control Versioning**: Git, Github;
 - **Rest APIs**: Node.js, Express.js, Flask;
 - **Databases**: PostgreSQL, MongoDB;
