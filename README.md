@@ -1,23 +1,18 @@
 # 🧔 Hi, I'm Guilherme Almeida  
-I'm a Software Engineer focusing on Web Development with 4+ years of experience in software development. I worked on several projects, primarily in web development, mainly using Javascript, nodeJS, and Python. Responsible for creating very understandable and functional code.
-
-I'm passionate about learning new technologies and challenging jobs, sharing knowledge, and teamwork.
+I'm a dedicated Software Engineer with a Bachelor's degree in Computer Science and over 4 years of hands-on experience in software development. My journey began in the creative field, having spent approximately 6 years as a designer before making the leap into development.
 
 ### ⚙️**Skills:**
-As long as I started my career, I worked as a designer for about 6 years before becoming a developer. I also have extensive knowledge of some design patterns and tools. I have Experience in Web Development, Software Development, Graphic Design, and Agile Methodologies.
+My expertise extends across Web Development, Software Development, Graphic Design, Data Structures and Algorithms, and Agile Methodologies.
+I've immersed myself in exploring and mastering various technologies, and I'm comfortable working with some listed the following:  
 
-I have been working with and studying different technologies, and below are some that I feel comfortable working with:  
-- Javascript (Typescript / ES6+ / NodeJS / Jquery)
-- Frameworks (ReactJS / VueJS)
-- HTML5 (SEO / Accessibility)
-- CSS3 (Sass / Styled Components)
-- Responsive Design (Mobile First)
-- Automation testing (Cypress / Mocha / Jest)
-- Control Versioning (Git / Github / Gitlab)
-- Python (Flask)
-- Java
-- Database (PostgreSQL / GraphQL)
-- Agile Methodologies (Scrum / Kanban)
+- **Languages**: Javascript, Typescript, Python, Java, SQL;
+- **Frameworks**: React.js, Vue.js;
+- **Web Development**: HTML5, CSS3, SEO, Accessibility, Sass, Styled Components, Bootstrap;
+- **Automation testing**: Cypress, Mocha, Jest, Istanbul;
+- **Control Versioning**: Git, Github;
+- **Rest APIs**: Node.js, Express.js, Flask;
+- **Databases**: PostgreSQL, MongoDB;
+- **Agile Methodologies**: Scrum, Kanban.
 
 ### 🎓**Qualifications:**
 -  B.Sc. Computer Science
