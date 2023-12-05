@@ -2,7 +2,7 @@
 I'm a dedicated Software Engineer with a Bachelor's degree in Computer Science and over 4 years of hands-on experience in software development. My journey began in the creative field, having spent approximately 6 years as a designer before making the leap into development.
 
 ### ⚙️**Skills:**
-My expertise extends across Web Development, Software Development, Graphic Design, Data Structures and Algorithms, and Agile Methodologies.
+My expertise extends across Web Development, Software Development, Design, Data Structures and Algorithms, and Agile Methodologies.
 I've immersed myself in exploring and mastering various technologies, and I'm comfortable working with some listed the following:  
 
 - **Languages**: Javascript, Typescript, Python, Java, SQL;
