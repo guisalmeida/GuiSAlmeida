@@ -1,5 +1,5 @@
 # 🧔 Hi, I'm Guilherme Almeida  
-Developer with a Bachelor's degree in Computer Science and over 5 years of hands-on experience in software development. 
+Developer with a Bachelor's degree in Computer Science and over 5 years of hands-on experience in software development.  
 My journey began in the creative field, having spent approximately 6 years as a designer before development.
 
 ### ⚙️**Skills:**
