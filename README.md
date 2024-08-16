@@ -1,19 +1,19 @@
 # 🧔 Hi, I'm Guilherme Almeida  
-I'm a dedicated Software Engineer with a Bachelor's degree in Computer Science and over 4 years of hands-on experience in software development. My journey began in the creative field, having spent approximately 6 years as a designer before making the leap into development.
+Developer with a Bachelor's degree in Computer Science and over 5 years of hands-on experience in software development. My journey began in the creative field, having spent approximately 6 years as a designer before development.
 
 ### ⚙️**Skills:**
-My expertise extends across Web Development, Software Development, Design, Data Structures and Algorithms, and Agile Methodologies.
+My expertise extends across Web and Software Development, Data Structures and Algorithms, Agile Methodologies and a strong background in design (graphic design, visual identity, and UI/UX).
 I've immersed myself in exploring and mastering various technologies, and I'm comfortable working with some listed the following:  
 
 - **Languages**: Javascript, Typescript, Python, Java, SQL;
 - **Frameworks**: React.js, Vue.js;
-- **Web Development**: HTML5, CSS3, SEO, Accessibility, Sass, Styled Components, Bootstrap;
-- **Automation testing**: Cypress, Mocha, Jest, Istanbul;
-- **State Management**: Context API, Redux, Vuex, Apollo Client (Graphql);
+- **Web Development**: SEO, Accessibility, HTML5, CSS3, Sass, Tailwind, Styled Components, Bootstrap;
+- **Automation testing**: Jest, Cypress, Mocha, Istanbul;
+- **State Management**: Context API, Redux, Vuex, Composables, Apollo Client (Graphql);
 - **Control Versioning**: Git, Github;
 - **Rest APIs**: Node.js, Express.js, Flask;
 - **Databases**: PostgreSQL, MongoDB;
-- **Design UX/UI**: Figma, Responsive Design, Adobe Photoshop;
+- **Design UX/UI**: Responsive Design, Figma, Adobe Photoshop, Adobe Illustrator;
 - **Infrastructure**: Docker, Github Actions, AWS;
 - **Agile Methodologies**: Scrum, Kanban.
 
