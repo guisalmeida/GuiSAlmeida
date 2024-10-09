@@ -6,10 +6,10 @@
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?logo=behance&logoColor=white&link=https://www.behance.net/guisalmeida)](https://www.behance.net/guisalmeida)
 [![CV](https://img.shields.io/badge/CV-ffffff?style=flat&logo=googledrive&logoColor=black&link=https://docs.google.com/document/d/15Y8dUMIeBk6VNf4wj50rINi6uttHTUFB/edit?usp=sharing&ouid=107994884695031056164&rtpof=true&sd=true)](https://docs.google.com/document/d/15Y8dUMIeBk6VNf4wj50rINi6uttHTUFB/edit?usp=sharing&ouid=107994884695031056164&rtpof=true&sd=true)
 
-Software engineer with more than 5 years of practical experience in software development. I have a bachelor's degree in Computer Science. 
+Full Stack Software Developer focused on Frontend with more than 5 years of practical experience in software development. I have a bachelor's degree in Computer Science. 
 Interested in professional growth and willing to embrace new technologies and take on challenging tasks. I am also enthusiastic about sharing knowledge and working collaboratively as a team.
 
-My expertise extends across Web and Software Development, Data Structures and Algorithms, Agile Methodologies and a strong background in design (graphic design, visual identity, and UI/UX).
+My expertise extends across Web and Software Development, Data Structures and Algorithms, Agile Methodologies and a strong background in Design (graphic design, visual identity, and UI/UX).
 I've immersed myself in exploring and mastering various technologies, and I'm comfortable working with some listed following.  
 
 ### ⚙️**Skills:**
