@@ -22,13 +22,13 @@ I've immersed myself in exploring and mastering various technologies, and I'm co
 
 - #### Frontend:
   - **Frameworks**: React.js, Vue.js;
-  - **Web Development**: SEO, Accessibility, HTML5, CSS3, Sass, Tailwind, Styled Components, Bootstrap;
-  - **Automation testing**: Jest, Cypress, Mocha, Istanbul;
+  - **Web Development**: SEO, Accessibility, HTML5, CSS3, Sass, Tailwind, Styled Components, Tailwind;
+  - **Automation testing**: Jest, Cypress, Pytest, Junit;
   - **State Management**: Context API, Redux, Vuex, Composables, Apollo Client (Graphql);
   - **Design UX/UI**: Responsive Design, Figma, Adobe Photoshop, Adobe Illustrator;
 
 - #### Backend:
-  - **Rest APIs**: Node.js, Express.js, Flask;
+  - **APIs**: Node.js, Express.js, Python, Flask, GraphQl;
   - **Databases**: PostgreSQL, MongoDB;
 
 - #### DevOps:
