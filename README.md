@@ -15,25 +15,25 @@ I've immersed myself in exploring and mastering various technologies, and I'm co
 ### ⚙️**Skills:**
 
 - #### Languages: 
-  - **Javascript / Typescript**
+  - **JavaScript / TypeScript**
   - **Python**;
   - **Java**;
   - **SQL**;
 
 - #### Frontend:
-  - **Frameworks**: React.js, Vue.js;
-  - **Web Development**: SEO, Accessibility, HTML5, CSS3, Sass, Tailwind, Styled Components, Tailwind;
+  - **Frameworks**: React, Angular, Vue;
+  - **Web Development**: SEO, Accessibility, HTML5, CSS3, Sass, Styled Components, Tailwind;
   - **Automation testing**: Jest, Cypress, Pytest, Junit;
-  - **State Management**: Context API, Redux, Vuex, Composables, Apollo Client (Graphql);
+  - **State Management**: Redux, NgRx, Vuex;
   - **Design UX/UI**: Responsive Design, Figma, Adobe Photoshop, Adobe Illustrator;
 
 - #### Backend:
-  - **APIs**: Node.js, Express.js, Python, Flask, GraphQl;
+  - **APIs**: Node.js, Express.js, Python, Flask, GraphQL;
   - **Databases**: PostgreSQL, MongoDB;
 
 - #### DevOps:
-  - **Control Versioning**: Git, Github;
-  - **Infrastructure**: Docker, Github Actions, AWS;
+  - **Control Versioning**: Git, GitHub;
+  - **Infrastructure**: Docker, GitHub Actions, AWS;
 
 - #### Agile Methodologies:
   - Scrum;
