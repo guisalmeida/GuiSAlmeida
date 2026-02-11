@@ -1,4 +1,4 @@
-# 🧔 Hi, I'm Guilherme Almeida  
+# 👋 Hi, I'm Guilherme Almeida  
 [![Website Badge](https://img.shields.io/badge/guisalmeida.com-000000)](https://guisalmeida.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guisalmeida/)](https://www.linkedin.com/in/guisalmeida/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/GuiSAlmeida87)](https://twitter.com/GuiSAlmeida87)
@@ -6,11 +6,12 @@
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?logo=behance&logoColor=white&link=https://www.behance.net/guisalmeida)](https://www.behance.net/guisalmeida)
 [![CV](https://img.shields.io/badge/CV-ffffff?style=flat&logo=googledrive&logoColor=black&link=https://docs.google.com/document/d/15Y8dUMIeBk6VNf4wj50rINi6uttHTUFB/edit?usp=sharing&ouid=107994884695031056164&rtpof=true&sd=true)](https://docs.google.com/document/d/15Y8dUMIeBk6VNf4wj50rINi6uttHTUFB/edit?usp=sharing&ouid=107994884695031056164&rtpof=true&sd=true)
 
-Full Stack Software Developer focused on Frontend with more than 5 years of practical experience in software development. I have a bachelor's degree in Computer Science. 
-Interested in professional growth and willing to embrace new technologies and take on challenging tasks. I am also enthusiastic about sharing knowledge and working collaboratively as a team.
+Full Stack Software Developer with more than 6 years of practical experience in software development. I have a bachelor's degree in Computer Science. 
+Interested in professional growth and willing to embrace new technologies and take on challenging tasks.
+I am also enthusiastic about sharing knowledge and working collaboratively as a team.
 
 My expertise extends across Web and Software Development, Data Structures and Algorithms, Agile Methodologies and a strong background in Design (graphic design, visual identity, and UI/UX).
-I've immersed myself in exploring and mastering various technologies, and I'm comfortable working with some listed following.  
+I've immersed myself in exploring and mastering various technologies, and I'm comfortable working with the following.  
 
 ### ⚙️**Skills:**
 
@@ -28,7 +29,7 @@ I've immersed myself in exploring and mastering various technologies, and I'm co
   - **Design UX/UI**: Responsive Design, Figma, Adobe Photoshop, Adobe Illustrator;
 
 - #### Backend:
-  - **APIs**: Node.js, Express.js, Python, Flask, GraphQL;
+  - **APIs**: Express.js, Flask;
   - **Databases**: PostgreSQL, MongoDB;
 
 - #### DevOps:
