@@ -13,13 +13,12 @@ I am also enthusiastic about sharing knowledge and working collaboratively as a 
 My expertise extends across Web and Software Development, Data Structures and Algorithms, Agile Methodologies and a strong background in Design (graphic design, visual identity, and UI/UX).
 I've immersed myself in exploring and mastering various technologies, and I'm comfortable working with the following.  
 
-### ⚙️**Skills:**
+### ⚙️ **Skills:**
 
 - #### Languages: 
   - **JavaScript / TypeScript**
-  - **Python**;
   - **Java**;
-  - **SQL**;
+  - **Python**;
 
 - #### Frontend:
   - **Frameworks**: React, Angular, Vue;
@@ -41,7 +40,7 @@ I've immersed myself in exploring and mastering various technologies, and I'm co
   - Kanban.
 
 
-### 🎓**Qualifications:**
+### 🎓 **Qualifications:**
   -  B.Sc. Computer Science
 
 <!-- 
