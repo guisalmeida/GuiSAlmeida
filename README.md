@@ -21,11 +21,11 @@ I've immersed myself in exploring and mastering various technologies, and I'm co
   - **Python**;
 
 - #### Frontend:
-  - **Frameworks**: React, Angular, Vue;
+  - **Frameworks**: Angular, React, Vue;
   - **Web Development**: SEO, Accessibility, HTML5, CSS3, Sass, Styled Components, Tailwind;
   - **Automation testing**: Jest, Cypress, Pytest, Junit;
-  - **State Management**: Redux, NgRx, Vuex;
-  - **Design UX/UI**: Responsive Design, Figma, Adobe Photoshop, Adobe Illustrator;
+  - **State Management**: NgRx, Redux, Vuex;
+  - **Design UX/UI**: Figma, Adobe Photoshop, Adobe Illustrator;
 
 - #### Backend:
   - **APIs**: Express.js, Flask;
