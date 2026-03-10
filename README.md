@@ -17,6 +17,7 @@ I've immersed myself in exploring and mastering various technologies, and I'm co
   - **JavaScript / TypeScript**
   - **Java**;
   - **Python**;
+  - **Pascal (just for fun)**;
 
 - #### Frontend:
   - **Frameworks**: Angular, React, Vue;
