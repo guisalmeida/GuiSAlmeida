@@ -4,38 +4,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:guisalmeida.dev@gmail.com)](mailto:guisalmeida.dev@gmail.com)
 [![CV](https://img.shields.io/badge/CV-ffffff?style=flat&logo=googledrive&logoColor=black&link=https://docs.google.com/document/d/15Y8dUMIeBk6VNf4wj50rINi6uttHTUFB/edit?usp=sharing&ouid=107994884695031056164&rtpof=true&sd=true)](https://docs.google.com/document/d/15Y8dUMIeBk6VNf4wj50rINi6uttHTUFB/edit?usp=sharing&ouid=107994884695031056164&rtpof=true&sd=true)
 
-I'm a Software Developer with more than 7 years of practical experience and a bachelor's degree in Computer Science. My expertise extends across Web and Software Development, Data Structures and Algorithms, Agile Methodologies, and a strong background in design (graphic design, visual identity, and UI/UX).
+I'm a Software Developer with over 7 years of hands-on experience and a bachelor's degree in Computer Science. My expertise extends across Web and Software Development, Data Structures and Algorithms, Agile Methodologies, and a strong background in design (graphic design, visual identity, and UI/UX).
 
 Interested in professional growth and willing to embrace new technologies. I am also enthusiastic about sharing knowledge and working collaboratively as a team.
 I've immersed myself in exploring and mastering various technologies, and I'm comfortable working with the following.  
 
 ### ⚙️ **Skills:**
 
-- #### Languages: 
-  - **JavaScript / TypeScript**
-  - **Java**;
-  - **Python**;
-  - **Pascal (just for fun)**;
-
-- #### Frontend:
-  - **Frameworks**: Angular, React, Vue;
-  - **Web Development**: SEO, Accessibility, HTML5, CSS3, Sass, Styled Components, Tailwind;
-  - **Automation testing**: Jest, Cypress, Pytest, Junit;
-  - **State Management**: NgRx, Redux, Vuex;
-  - **Design UX/UI**: Figma, Adobe Photoshop, Adobe Illustrator;
-
-- #### Backend:
-  - **APIs**: Express.js, Flask;
-  - **Databases**: PostgreSQL, MongoDB;
-
-- #### DevOps:
-  - **Control Versioning**: Git, GitHub;
-  - **Infrastructure**: Docker, GitHub Actions, AWS;
-
-- #### Agile Methodologies:
-  - Scrum;
-  - Kanban.
-
+- Experienced in the JavaScript/TypeScript ecosystem. Proven experience building scalable applications using Angular, React, Vue, Node.js (Express), Python (Flask), Java, PostgreSQL, MongoDB, Docker, AWS, and CI/CD pipelines with GitHub Actions.
 
 ### 🎓 **Qualifications:**
   -  B.Sc. Computer Science
