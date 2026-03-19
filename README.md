@@ -11,10 +11,17 @@ I've immersed myself in exploring and mastering various technologies, and I'm co
 
 ### ⚙️ **Skills:**
 
-- Experienced in the **JavaScript/TypeScript** ecosystem. Proven experience building scalable applications using **Angular, React, Vue, Node.js (Express), Python (Flask), Java, PostgreSQL, MongoDB, Docker, AWS**, and CI/CD pipelines with **GitHub Actions**.
+- #### Languages & Frameworks
+  - **JavaScript | TypeScript | Node.js (Express) | Angular | React | Vue | Java | Python (Flask)**
+
+- #### Databases & Cloud
+  - **PostgreSQL | MongoDB | Docker | AWS**
+
+- #### Dev & Tools
+  - **Git | Github | CI/CD pipelines (GitHub Actions) | Jest | Cypress** 
 
 ### 🎓 **Qualifications:**
-  -  B.Sc. Computer Science
+  -  Bachelor's degree in Computer Science (2019-2022)
 
 <!-- 
 #
