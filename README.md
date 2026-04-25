@@ -12,13 +12,13 @@ I've immersed myself in exploring and mastering various technologies, and I'm co
 ### ⚙️ **Skills:**
 
 - #### Languages & Frameworks
-  - **JavaScript | TypeScript | Node.js (Express) | Angular | React | Vue | Java | Python (Flask)**
+  - **JavaScript | TypeScript | Node.js | Angular | React | Vue | Java | Python**
 
 - #### Databases & Cloud
   - **PostgreSQL | MongoDB | Docker | AWS**
 
 - #### Dev & Tools
-  - **Git | Github | CI/CD pipelines (GitHub Actions) | Jest | Cypress** 
+  - **Git | Github | CI/CD pipelines | Jest | Cypress** 
 
 ### 🎓 **Qualifications:**
   -  Bachelor's degree in Computer Science (2019-2022)
